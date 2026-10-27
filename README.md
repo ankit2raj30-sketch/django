@@ -1,5 +1,3 @@
-# django
-# Ankit Raj / Registration - RA2511056030063
 # 🛒 ShopEase - Full-Stack E-Commerce Web Application
 
 [![Django Version](https://img.shields.io/badge/Django-6.1%20%7C%205.x-green.svg)](https://www.djangoproject.com/)
